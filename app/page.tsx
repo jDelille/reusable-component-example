@@ -1,7 +1,5 @@
 import NewDocButton from "./components/NewDocButton";
 
-
-
 export default function Home() {
   return (
     <main>
